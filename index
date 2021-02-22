@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li>Home</li>
+          <li>Tentang Kami</li>
+          <li>Program</li>
+          <li>Kontak</li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <!-- Hero Section -->
+      <section>
+        <div>
+          <h2>Yayasan Bina Mulia</h2>
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Perspiciatis enim nam id similique harum sit at sunt aliquid optio
+            eligendi quasi suscipit odio possimus, hic perferendis soluta
+            temporibus quibusdam exercitationem.
+          </p>
+          <button>Donasi</button>
+        </div>
+        <div>
+          <img src="img/hero.png" alt="Hero" />
+        </div>
+      </section>
+      <!-- Hero Section -->
+
+      <!-- Program Section -->
+      <section>
+        <h2>Program Yayasan</h2>
+        <div>
+          <div>
+            <h3>Wakaf Al-Quran</h3>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Doloremque perferendis adipisci porro veniam assumenda maiores,
+              obcaecati nulla nobis aliquid placeat! Mollitia saepe quo itaque
+              distinctio, delectus consequatur nulla. Quisquam, beatae!
+            </p>
+            <button>Donasi</button>
+          </div>
+          <div>
+            <h3>Wakaf Al-Quran</h3>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Doloremque perferendis adipisci porro veniam assumenda maiores,
+              obcaecati nulla nobis aliquid placeat! Mollitia saepe quo itaque
+              distinctio, delectus consequatur nulla. Quisquam, beatae!
+            </p>
+            <button>Donasi</button>
+          </div>
+          <div>
+            <h3>Wakaf Al-Quran</h3>
+            <p>
+              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+              Doloremque perferendis adipisci porro veniam assumenda maiores,
+              obcaecati nulla nobis aliquid placeat! Mollitia saepe quo itaque
+              distinctio, delectus consequatur nulla. Quisquam, beatae!
+            </p>
+            <button>Donasi</button>
+          </div>
+        </div>
+      </section>
+      <!-- Program Section -->
+    </main>
+  </body>
+</html>
